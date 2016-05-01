@@ -1,0 +1,9 @@
+# Docker image for development on Raspberry Pi 3
+
+## Installed
+- Java 8
+- Docker in Docker
+
+## Run
+
+docker-compuse up
